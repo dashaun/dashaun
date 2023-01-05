@@ -1,3 +1,5 @@
+![Profile Header](./code-native-compile.png)
+
 ### Deliberately practicing to build, run, and manage, better software, faster.
 
 - Every rep counts.
