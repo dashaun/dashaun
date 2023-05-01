@@ -14,6 +14,5 @@
 - [Spring Boot 3 native with Spring Cloud](https://dashaun.com/series/spring-boot-3-native/)
 - [100DaysOfCode](https://www.100daysofcode.com/)
 
-![YouTube Video Views](https://img.shields.io/youtube/views/Vkd7g9BCNLs?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/dashaun?style=social) ![Twitch Status](https://img.shields.io/twitch/status/javagrunt?style=social)
-
+[https://youtube.com/@dashaun](https://youtube.com/@dashaun)
 [https://dashaun.com/](https://dashaun.com)
