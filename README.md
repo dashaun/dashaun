@@ -13,6 +13,5 @@
 - [Cloud Native Builpacks](https://dashaun.com/series/java-native-builder-multiarch/) for ARM64
 - [Spring Boot 3 native with Spring Cloud](https://dashaun.com/series/spring-boot-3-native/)
 - [100DaysOfCode](https://www.100daysofcode.com/)
-
-[https://youtube.com/@dashaun](https://youtube.com/@dashaun)
-[https://dashaun.com/](https://dashaun.com)
+- [https://youtube.com/@dashaun](https://youtube.com/@dashaun)
+- [https://dashaun.com/](https://dashaun.com)
